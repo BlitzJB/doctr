@@ -4,7 +4,7 @@ h5py>=3.1.0
 opencv-python>=3.4.5.20
 pyclipper>=1.2.0
 shapely>=1.6.0
-matplotlib>=3.1.0,<3.4.3
+matplotlib
 mplcursors>=0.3
 weasyprint>=52.2,<53.0
 unidecode>=1.0.0
